@@ -5,6 +5,8 @@ It creates one for it, it needs a place to save all the commits.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Sort of a midway point to hold them so you can commit them into the repository in better groups
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
