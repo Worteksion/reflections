@@ -31,4 +31,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If your not sure you want the changes or you want more opinions on the changes before actually doing them, a different branch
+    could be the solution. If you're certain about the changes or they need to happen fast, master could be the way to go.
